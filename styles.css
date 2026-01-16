@@ -102,6 +102,17 @@ p {
   max-width: none !important;
 }
 
-body {
-  background: pink !important;
+.portrait img {
+  width: 200px;
+  filter: grayscale(100%);
+}
+
+.portrait {
+  display: flex;
+  justify-content: center; /* 水平居中 */
+  margin: 24px 0;          /* 上下留点呼吸 */
+}
+
+.portrait {
+  margin: 24px 0 32px 0;
 }
