@@ -98,7 +98,10 @@ p {
 }
 
 .portrait img {
-  width: 100%;
+  width: 200px;
   filter: grayscale(100%);
 }
 
+.portrait {
+  margin: 24px 0 32px 0;
+}
