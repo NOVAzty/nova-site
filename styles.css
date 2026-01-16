@@ -98,6 +98,7 @@ p {
 }
 
 .portrait img {
-  width: 260px;
-  mix-blend-mode: multiply;
+  width: 200px;
+  filter: grayscale(100%);
 }
+
