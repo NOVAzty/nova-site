@@ -97,10 +97,6 @@ p {
   height: 520px;
 }
 
-.portrait img {
-  width: 140px !important;
-  max-width: none !important;
-}
 
 .portrait img {
   width: 200px;
