@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Sonic Odyssey: Mariners' Resonance (2025) — Nova Avon</title>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <main class="wrap">
+    <div class="nav">
+      <a href="../index.html">← Works</a>
+      <span>·</span>
+      <span>The Sonic Odyssey: Mariners' Resonance (2025)</span>
+    </div>
+
+    <h1>The Sonic Odyssey: Mariners' Resonance (2025)</h1>
+    <p class="subtitle">Electronic Music Theatre</p>
+
+    <div class="badges">
+      <span class="badge">Electronic Music Theatre</span>
+      <span class="badge">Cross-culture</span>
+    </div>
+
+    <div class="hero">
+      <img src="/assets/mariner/cover1.jpg" alt="Mariner — cover1" />
+      <img src="/assets/mariner/cover2.png" alt="Mariner — cover2" />
+      <img src="/assets/mariner/cover3.jpg" alt="Mariner — cover3" />
+    </div>
+
+    <div class="rule"></div>
+
+    <div class="meta">
+      <p><span class="label">Director / Composer / Producer:</span> Tianyi Zhang (NOVA)</p>
+      <p><span class="label">Dancer:</span> Zéphyra</p>
+      <p><span class="label">Visual:</span> Siwei Zhang</p>
+      <p><span class="label">Video:</span> Tianyi Zhang (NOVA), Siwei Zhang</p>
+      <p><span class="label">Performance:</span> <em>Striking East, Resonating West</em> — Workshop by Professor Du Yun, Shanghai Conservatory of Music (Jan 5, 2025)</p>
+    </div>
+
+    <div class="rule"></div>
+
+    <div>
+      <div class="section-title">Trailer</div>
+      <div class="trailer">
+        Video link not added yet.
+        <br />
+        (When you have a link, we can embed YouTube / Vimeo / Bilibili / a direct MP4 here.)
+      </div>
+    </div>
+
+    <div class="rule"></div>
+
+    <div class="prose">
+      <div class="section-title">About the Project</div>
+
+      <p class="zh">Chora是⼀种处于运状态的容器，⽆形⽆状，是沉默的在场者，它飘来飘去，可惑但⽆法界定，各种⽭盾可以在其中相互⽃争。</p>
+      <p class="en">Chora is a container in a state of being in motion— invisible and formless. It is perceptible but indefinable, where various contradictions can struggle against each other.</p>
+
+      <p class="zh">传统⼆元对立的意识形态下，满⽉普遍地被赋予阴性能量的意象：柔美丰盈；30天左右的圆缺之变为⽉经，⽆不包含对孕育能⼒的象征。但⼏乎未曾有⼈真正地“触摸”过皎洁的满⽉，我们所看到的便是真实的吗？现实与想象中交杂的混沌感，这种不可⾔说的状态正是Chora所具有的。⼀切来源于探索好奇的未知，这种直觉下对现实的逃避进⼀步演化成对于⾃我的发现，从⽽获得了前所未有的能量场与崭新的治愈。</p>
+      <p class="en">Under the traditional ideology of binary opposition, the full moon is generally endowed with the image of the traditional feminine energy: softness and fullness. The transition from defect to round in about 30 days is pointed to as menstruation, and it is a symbol of fertility. But almost no one has truly “touched” the bright full moon— is what we see real? The mixed sense of chaos in reality and imagination, this indescribable state, is precisely what Chora possesses. Everything comes from exploring the curious unknown; under this intuition, escape from reality further evolves into the discovery of oneself, thus obtaining an unprecedented energy field and a new cure.</p>
+
+      <p class="zh">能够超越时空尺度之限制即为知觉能力之扩张，直到一个不曾为语言所染指的原初“身体”出现。通过模糊⾳乐、舞蹈、视觉、装置之间的界限，我们邀请⼤家共同探讨性别、能量场、神化崇拜、秩序与破坏的平衡等观念。</p>
+      <p class="en">To transcend the constraints of time and space is to expand the capacity of perception, until an original “body” emerges— one that has never been touched by language. By blurring the boundaries between music, dance, vision, and installation, we invite everyone to explore concepts such as gender, energy fields, deification worship, and the balance between order and destruction.</p>
+    </div>
+
+    <div class="rule"></div>
+
+    <div>
+      <div class="section-title">Images</div>
+      <div class="gallery">
+        <img src="../assets/chora1/01.jpg" alt="Chora: 1. Full Moon — image 1" />
+        <img src="../assets/chora1/02.jpeg" alt="Chora: 1. Full Moon — image 2" />
+        <img src="../assets/chora1/03.jpeg" alt="Chora: 1. Full Moon — image 3" />
+        <img src="../assets/chora1/04.jpeg" alt="Chora: 1. Full Moon — image 4" />
+        <img src="../assets/chora1/05.jpeg" alt="Chora: 1. Full Moon — image 5" />
+      </div>
+    </div>
+
+    <div class="footer">Last updated: 2026-01-16</div>
+  </main>
+</body>
