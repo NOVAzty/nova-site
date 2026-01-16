@@ -99,7 +99,6 @@ p {
 
 .portrait img {
   width: 200px;
-  filter: grayscale(100%);
 }
 
 .portrait {
