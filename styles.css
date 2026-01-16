@@ -101,3 +101,7 @@ p {
   width: 140px !important;
   max-width: none !important;
 }
+
+body {
+  background: pink !important;
+}
