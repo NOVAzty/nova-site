@@ -55,3 +55,31 @@ p {
   margin-bottom: 1.2em;
 }
 
+.podcast-card{
+  display:flex;
+  gap:20px;
+  align-items:center;
+  text-decoration:none;
+  border:1px solid rgba(255,255,255,0.15);
+  padding:16px;
+  border-radius:14px;
+}
+
+.podcast-cover{
+  width:160px;
+  height:160px;
+  object-fit:cover;
+  border-radius:12px;
+}
+
+.podcast-title{
+  font-size:20px;
+  line-height:1.25;
+  margin-bottom:8px;
+}
+
+.podcast-link{
+  opacity:0.75;
+  font-size:14px;
+}
+
