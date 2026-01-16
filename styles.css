@@ -97,3 +97,7 @@ p {
   height: 520px;
 }
 
+.portrait img {
+  width: 260px;
+  mix-blend-mode: multiply;
+}
