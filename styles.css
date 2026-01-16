@@ -98,8 +98,8 @@ p {
 }
 
 .portrait img {
-  width: 200px;
-  filter: grayscale(100%);
+  width: 180px;
+  max-width: 100%;
 }
 
 .portrait {
